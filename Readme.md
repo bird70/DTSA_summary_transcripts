@@ -1,11 +1,13 @@
 # Statistical Inference: Table of Contents
 
+I needed some ***TL;DR*** for the videos to summarize the sheer volume of contents and created those in Jupyter Notebook format. 
+
 Here is a list of all the notebooks in this folder. 
 
 **Chapter Navigation**
 Click on a link to open the corresponding notebook. You can also go from one chapter to the next by following the link inside the chapter.
 
-## Lesson : - Introduction 
+## Module 1 - Introduction 
 - [Lessen 1: Joint Distributions](./mod1_summarytranscript_L2_jointDistributions.ipynb)
 - [Lesson 2: Gamma Distribtions](./mod1_summarytranscript_L3_gammaDistributions.ipynb)
 - [Lesson 3: Transformations of Distributions](./mod1_summarytranscript_L4_transformations_of_distributions.ipynb)
