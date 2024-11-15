@@ -9,7 +9,7 @@ Click on a link to open the corresponding notebook. You can also go from one cha
 
 ## Module 1 - Introduction 
 - [Lesson 1: Joint Distributions](./mod1_summarytranscript_L2_jointDistributions.ipynb)
-- [Lesson 2: Gamma Distribtions](./mod1_summarytranscript_L3_gammaDistributions.ipynb)
+- [Lesson 2: Gamma Distributions](./mod1_summarytranscript_L3_gammaDistributions.ipynb)
 - [Lesson 3: Transformations of Distributions](./mod1_summarytranscript_L4_transformations_of_distributions.ipynb)
 - [Lesson 4: Expectation](./mod1_summarytranscript_L5_expectation.ipynb)
 - [Lesson 5: Variance/ Covariance](./mod1_summarytranscript_L6_varianceCovariance.ipynb)
