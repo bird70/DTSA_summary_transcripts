@@ -5,7 +5,7 @@ I needed some ***TL;DR*** for the videos to summarize the sheer volume of conten
 Here is a list of all the notebooks in this folder. 
 
 **Chapter Navigation**
-Click on a link to open the corresponding notebook. You can also go from one chapter to the next by following the link inside the chapter.
+Click on a link to open the corresponding notebook. You can also go from one chapter to the next by following the link inside the chapter. Or use the notebook called 'navigation.ipynb' in this folder to quickly jump between chapters.
 
 ## Module 1 - Introduction 
 - [Lesson 1: Joint Distributions](./mod1_summarytranscript_L2_jointDistributions.ipynb)
